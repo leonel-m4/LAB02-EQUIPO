@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block title %}Registrar Cita - Veterinaria{% endblock %}
+
+{% block content %}
+
+<h1>Registrar nueva cita</h1>
+
+<form method="POST">
+
+    {% csrf_token %}
+
+    {{ form.as_p }}
+
+    <button type="submit">
+        Registrar cita
+    </button>
+
+</form>
+
+<br>
+
+<a href="{% url 'lista_citas' %}">
+    Volver al listado
+</a>
+
+{% endblock %}

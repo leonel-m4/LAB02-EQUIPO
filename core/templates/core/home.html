@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %}Inicio - Sistema Veterinaria{% endblock %}
+
+{% block content %}
+<h1>Bienvenido al Sistema de Veterinaria</h1>
+
+<p>Este es el proyecto principal que contiene la app <strong>core</strong> y la app <strong>veterinaria</strong>.</p>
+
+<h2>Enlaces disponibles:</h2>
+<ul>
+    <li><a href="{% url 'lista_citas' %}">Ir a la app de veterinaria - Listado de citas</a></li>
+    <li><a href="{% url 'crear_cita' %}">Ir a la app de veterinaria - Registrar nueva cita</a></li>
+    <li><a href="/admin/">Panel de administración</a></li>
+</ul>
+{% endblock %}
