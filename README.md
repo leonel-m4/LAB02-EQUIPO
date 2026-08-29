@@ -2,16 +2,16 @@
 
 ## Problemática
 
-Una veterinaria pequeña puede tener dificultades para organizar las citas de sus clientes cuando las registra manualmente. Esto puede provocar confusión, pérdida de información o problemas con los horarios. La aplicación permite registrar y visualizar las citas de forma sencilla.
+Una veterinaria puede tener dificultades para organizar las citas de los clientes al momento de registrarlas manualmente o mediante mensajes. Esto puede provocar horarios repetidos, pérdida de información o confusión sobre las mascotas atendidas. Se propone crear una aplicación web que permita registrar y visualizar las citas de manera más sencilla. La utilizarían los trabajadores de la veterinaria para controlar las reservas de atención.
 
 ## Requisitos funcionales
 
-- Registrar una nueva cita.
-- Registrar el nombre del dueño.
-- Registrar el nombre de la mascota.
-- Registrar el servicio solicitado.
-- Registrar la fecha de la cita.
-- Mostrar las citas registradas.
+- Registrar citas
+- Registrar el nombre del dueño de la mascota
+- Registrar el nombre de la mascota
+- Registrar el tipo servicio solicitado
+- Registrar la fecha de la cita
+- Mostrar una lista de todas las citas que se han registrado
 
 ## App creada
 
