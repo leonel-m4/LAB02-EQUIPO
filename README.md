@@ -1,5 +1,9 @@
 # Sistema de Reserva de Citas Veterinarias
 
+# Integrantes
+- Retamozo De la Cruz Leonel Mathias
+- Rojas Condor Jose Saith
+
 ## Problemática
 
 Una veterinaria puede tener dificultades para organizar las citas de los clientes al momento de registrarlas manualmente o mediante mensajes. Esto puede provocar horarios repetidos, pérdida de información o confusión sobre las mascotas atendidas. Se propone crear una aplicación web que permita registrar y visualizar las citas de manera más sencilla. La utilizarían los trabajadores de la veterinaria para controlar las reservas de atención.
