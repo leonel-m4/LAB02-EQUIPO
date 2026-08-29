@@ -29,7 +29,7 @@ La aplicación contiene:
 
 La aplicación no utiliza una base de datos ni migraciones. Los registros se almacenan temporalmente en una lista de Python dentro de `models.py`.
 
-Los nuevos registros se pierden cuando se reinicia el servidor. Este comportamiento es esperado debido a los requisitos del laboratorio.
+Los nuevos registros se pierden cuando se reinicia el servidor.
 
 ## Flujo MVT
 
