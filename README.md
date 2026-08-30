@@ -73,7 +73,7 @@ Se reinició el servidor y se verificó que el registro agregado desapareciera, 
 
 Se comprobó que las rutas y funcionalidades existentes de `core` continúan funcionando.
 
-##CAPTURAS DE LA WEB
+## CAPTURAS DE LA WEB
 
 <img width="1004" height="635" alt="image" src="https://github.com/user-attachments/assets/bac76c32-c9f5-45f1-8113-cd164ecbc6a9" />
 
